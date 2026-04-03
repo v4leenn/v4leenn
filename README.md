@@ -1,4 +1,6 @@
-<h1 align="center">valeen</h1>
+<h1 align="center">
+  <span style="color: yellow;">vaal</span><span style="color: black;">en</span>
+</h1>
 
 ## 🧠 About
 
