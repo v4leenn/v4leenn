@@ -1,24 +1,10 @@
-<h1 align="center">TuNombre ❄️</h1>
+<h1 align="center">valeen</h1>
 
 <p align="center">
   <b>Full Stack Developer</b><br>
   Building digital products from Uruguay 🇺🇾<br>
-  Discord bots, web apps, FiveM servers
+  Discord bots y web apps.
 </p>
-
-<p align="center">
-  <a href="mailto:tuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tuemail@gmail.com-pink?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://discord.gg/tu-link">
-    <img src="https://img.shields.io/badge/Discord-Join-blue?style=for-the-badge&logo=discord">
-  </a>
-  <a href="https://tuweb.com">
-    <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge">
-  </a>
-</p>
-
----
 
 ## 🧠 About
 
@@ -64,9 +50,8 @@
 
 ## 🎯 Projects
 
-- 🌐 Web templates (tu link)
+- 🌐 Web templates (https://v4leenn.github.io/portafolio-web/)
 - 🤖 Discord bots
-- 🎮 FiveM servers
 
 ---
 
