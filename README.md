@@ -1,12 +1,75 @@
+<h1 align="center">TuNombre ❄️</h1>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=v4leenn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=v4leenn&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=v4leenn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <b>Full Stack Developer</b><br>
+  Building digital products from Uruguay 🇺🇾<br>
+  Discord bots, web apps, FiveM servers
+</p>
+
+<p align="center">
+  <a href="mailto:tuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tuemail@gmail.com-pink?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://discord.gg/tu-link">
+    <img src="https://img.shields.io/badge/Discord-Join-blue?style=for-the-badge&logo=discord">
+  </a>
+  <a href="https://tuweb.com">
+    <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge">
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=v4leenn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About
+
+- 📍 Based in Uruguay
+- 💻 I build websites, bots & systems
+- ⚡ Focused on scalable and modern solutions
+
+---
+
+## 🚀 Tech Stack
+
+### 🧩 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge)
+
+### ⚙️ Frameworks & Tools
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3)
+![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql)
+
+### 🛠️ Tools
+![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git)
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tuusuario&color=ff69b4&style=for-the-badge">
+  <img src="https://img.shields.io/github/followers/tuusuario?style=for-the-badge&color=blue">
+  <img src="https://img.shields.io/github/stars/tuusuario?style=for-the-badge&color=pink">
+</p>
+
+---
+
+## 🎯 Projects
+
+- 🌐 Web templates (tu link)
+- 🤖 Discord bots
+- 🎮 FiveM servers
+
+---
+
+<p align="center">
+  💡 "Me dijeron que no podía, por eso lo hice"
+</p>
