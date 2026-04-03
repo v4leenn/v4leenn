@@ -38,16 +38,6 @@
 
 ---
 
-## 📊 Stats
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tuusuario&color=ff69b4&style=for-the-badge">
-  <img src="https://img.shields.io/github/followers/tuusuario?style=for-the-badge&color=blue">
-  <img src="https://img.shields.io/github/stars/tuusuario?style=for-the-badge&color=pink">
-</p>
-
----
-
 ## 🎯 Projects
 
 - 🌐 Web templates (https://v4leenn.github.io/portafolio-web/)
