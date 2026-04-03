@@ -14,13 +14,11 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge)
 
 ### ⚙️ Frameworks & Tools
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3)
-![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)
