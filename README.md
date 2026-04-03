@@ -1,11 +1,5 @@
 <h1 align="center">valeen</h1>
 
-<p align="center">
-  <b>Full Stack Developer</b><br>
-  Building digital products from Uruguay 🇺🇾<br>
-  Discord bots y web apps.
-</p>
-
 ## 🧠 About
 
 - 📍 Based in Uruguay
