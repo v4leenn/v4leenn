@@ -1,44 +1,51 @@
 <h1 align="center">
-  <span style="color: yellow;">vaal</span><span style="color: black;">en</span>
+  <span style="color:#f1c40f;">vaal</span><span style="color:#0f0f0f;">en</span>
 </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFB2&center=true&vCenter=true&lines=Developer;Web+Builder;Bot+Creator;Always+Leveling+Up" />
+</p>
+
+---
 
 ## 🧠 About
 
-- 📍 Based in Uruguay
-- 💻 I build websites, bots & systems
-- ⚡ Focused on scalable and modern solutions
+```bash
+> location: Uruguay 🇺🇾
+> role: Developer
+> focus: scalable & modern solutions
+> status: building cool stuff...
+💻 Desarrollo de webs, bots y sistemas
+⚡ Enfocado en rendimiento + diseño moderno
+🎯 Siempre mejorando
+🚀 Tech Stack
+🧩 Languages
 
----
 
-## 🚀 Tech Stack
 
-### 🧩 Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript)
 
-### ⚙️ Frameworks & Tools
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js)
-![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3)
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql)
 
-### 🛠️ Tools
-![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git)
+⚙️ Frameworks & Tools
 
----
 
-## 🎯 Projects
 
-- 🌐 Web templates (https://v4leenn.github.io/portafolio-web/)
-- 🤖 Discord bots
 
----
 
-<p align="center">
-  💡 "Me dijeron que no podía, por eso lo hice"
-</p>
+
+🗄️ Databases
+
+
+
+
+🛠️ Tools
+
+
+
+
+🎯 Projects
++ 🌐 Web Templates
+  → https://v4leenn.github.io/portafolio-web/
+
++ 🤖 Discord Bots
+  → Custom & scalable systems
