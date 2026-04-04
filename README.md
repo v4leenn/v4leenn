@@ -6,12 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFB2&center=true&vCenter=true&lines=Developer;Web+Builder;Bot+Creator;Always+Leveling+Up" />
 </p>
 
-<p align="center">
-  <b>Full Stack Developer</b><br>
-  Building digital products from Uruguay 🇺🇾<br>
-  Discord bots, web apps.
-</p>
-
 ---
 
 ## 🧠 About
