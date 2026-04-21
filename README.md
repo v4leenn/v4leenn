@@ -1,9 +1,6 @@
-<h1 align="center">
-  <span style="color:#f1c40f;">vaal</span><span style="color:#0f0f0f;">en</span>
-</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&width=400&lines=Developer&pause=999999&duration=1500" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=ffde21&center=true&vCenter=true&width=400&lines=Developer&pause=999999&duration=1500" />
 </p>
 
 ---
@@ -40,7 +37,7 @@
 
 ## 🎯 Projects
 
-- 🌐 Web templates (https://v4leenn.github.io/portafolio-web/)
+- 🌐 Web templates
 - 🤖 Discord bots
 
 ---
