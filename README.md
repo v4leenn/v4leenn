@@ -10,6 +10,7 @@
 - 📍 Based in Uruguay
 - 💻 I build websites, bots & systems
 - ⚡ Focused on scalable and modern solutions
+- 👾 https://v4leenn.github.io/portafolio/
 
 ---
 
